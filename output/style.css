@@ -1,0 +1,19 @@
+.g-wrap {
+    margin: 20px;
+    font-family: "monaco", 'menlo', sans-serif, serif;
+    font-size: 16px;
+}
+.g-info .m-tt {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.g-info .m-tt a {
+    color: #42b983;
+    text-decoration: none;
+}
+
+.g-info .summary {
+    line-height: 2em;
+    color: gray;
+}
